@@ -22,14 +22,14 @@
     "lib",
     "umd"
   ],
-  "homepage": "",
+  "homepage": "https://github.com/edward962/react-nav2d-ros2d",
   "keywords": [
     "react-component"
   ],
   "peerDependencies": {
     "react": "16.x"
   },
-  "repository": "",
+  "repository": "https://github.com/edward962/react-nav2d-ros2d",
   "scripts": {
     "build": "nwb build-react-component",
     "clean": "nwb clean-module && nwb clean-demo",
